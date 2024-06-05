@@ -43,3 +43,17 @@ Registration point
 анулируем сертификат похожими действиями
 
 Админ CA Informing
+Сохранить папку-создать папку на рабочем столе CA
+Путь сохранения отчетов в папку CA
+Тип базы данны Sql server (УКЦ 3x)
+строка подключения к базе данных:
+Data Source=10.0.0.3\winnccsql;initial Catalog=ViPNetAdministrator;User id=KcaUser;Password=Number1;
+Почта OperCA@demo.lab
+Отчеты-новый-сохранить файл-папка CA
+Фильтрации сертификатов-email город имя(первое)-выполнить
+Oper ca certification service
+Шаблон сертификаты tsp сервер
+Адрес почты TSP@demo.lab
+Подразделение IT
+Город Казань
+Область Татарстан 
