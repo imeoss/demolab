@@ -50,6 +50,7 @@ Registration point
 Data Source=10.0.0.3\winnccsql;initial Catalog=ViPNetAdministrator;User id=KcaUser;Password=Number1;
 Почта OperCA@demo.lab
 Отчеты-новый-сохранить файл-папка CA
+
 Фильтрации сертификатов-email город имя(первое)-выполнить
 Oper ca certification service
 Шаблон сертификаты tsp сервер
